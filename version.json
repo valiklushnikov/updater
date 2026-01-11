@@ -1,0 +1,9 @@
+{
+  "version": "0.0.1",
+  "build": 1704873600,
+  "release_date": "2026-01-10T12:00:00Z",
+  "changelog": [
+    "Initial release",
+    "Basic trading functionality"
+  ]
+}
