@@ -1,0 +1,13 @@
+{
+  "version": "0.0.4",
+  "build": 1768485664,
+  "release_date": "2026-01-15T16:01:04.589473",
+  "download_url": "https://update.maneki.trading/api/updates/download/0.0.4",
+  "size": 20455936,
+  "sha256": "166a7edd548b58ad76a8fcf229c6ad0e1d93ead932e5755ae352414df32016f2",
+  "changelog": [
+    "Added new terminal information"
+  ],
+  "required": false,
+  "min_version": "0.0.1"
+}
