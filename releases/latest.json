@@ -1,12 +1,12 @@
 {
-  "version": "0.0.1",
-  "build": 1768134966,
-  "release_date": "2026-01-11T14:36:06.256373",
-  "download_url": "https://update.maneki.trading/api/updates/download/0.0.1",
-  "size": 27052137,
-  "sha256": "669c64e549398185190de6b5a075f9b366ace7e53f72b51a3639e9f4993ea23d",
+  "version": "0.0.3",
+  "build": 1768482939,
+  "release_date": "2026-01-15T15:15:39.602364",
+  "download_url": "https://update.maneki.trading/api/updates/download/0.0.3",
+  "size": 20455936,
+  "sha256": "166a7edd548b58ad76a8fcf229c6ad0e1d93ead932e5755ae352414df32016f2",
   "changelog": [
-    "Add terminal v0.0.1"
+    "Change new UI design for terminal"
   ],
   "required": false,
   "min_version": "0.0.1"

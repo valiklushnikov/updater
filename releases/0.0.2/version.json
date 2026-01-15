@@ -1,0 +1,14 @@
+{
+  "version": "0.0.2",
+  "build": 1768422011,
+  "release_date": "2026-01-14T22:20:11.748400",
+  "download_url": "http://localhost:5000/api/updates/download/0.0.2",
+  "size": 17374720,
+  "sha256": "1137271e670f105a379a96d5f66d3aa19312f2a5bb01f147cea285f99ab76e67",
+  "changelog": [
+    "Added feature X",
+    "Fixed bug Y"
+  ],
+  "required": false,
+  "min_version": "0.0.1"
+}
