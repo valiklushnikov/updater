@@ -1,0 +1,14 @@
+{
+  "version": "0.0.5",
+  "build": 1768749234,
+  "release_date": "2026-01-18T17:13:54.612989",
+  "download_url": "https://update.maneki.trading/api/updates/download/0.0.5",
+  "size": 28502165,
+  "sha256": "492f0088b03ff5a425a779d7e5e7d935db7d324d4b7663dbfe124707cca21289",
+  "changelog": [
+    "Added auto-update",
+    "Fixed bugs"
+  ],
+  "required": false,
+  "min_version": "0.0.1"
+}

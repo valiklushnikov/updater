@@ -1,12 +1,13 @@
 {
-  "version": "0.0.4",
-  "build": 1768486726,
-  "release_date": "2026-01-15T16:18:46.907736",
-  "download_url": "https://update.maneki.trading/api/updates/download/0.0.4",
-  "size": 17376768,
-  "sha256": "68ee8fa0e7b1137d2517b8db5f17ee04d7c72cc6915b9c6bdc124d8f4d3a692d",
+  "version": "0.0.5",
+  "build": 1768749234,
+  "release_date": "2026-01-18T17:13:54.612989",
+  "download_url": "https://update.maneki.trading/api/updates/download/0.0.5",
+  "size": 28502165,
+  "sha256": "492f0088b03ff5a425a779d7e5e7d935db7d324d4b7663dbfe124707cca21289",
   "changelog": [
-    "Added new terminal information"
+    "Added auto-update",
+    "Fixed bugs"
   ],
   "required": false,
   "min_version": "0.0.1"
