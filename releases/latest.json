@@ -1,10 +1,10 @@
 {
   "version": "0.0.6",
-  "build": 1768903533,
-  "release_date": "2026-01-20T12:05:33.598930",
+  "build": 1768904251,
+  "release_date": "2026-01-20T12:17:31.423925",
   "download_url": "https://update.maneki.trading/api/updates/download/0.0.6",
   "size": 31426402,
-  "sha256": "7cfbaeab5b5ad45d9629c50c2cadbf653f9319ffe387ea91116eccd9bb6d1efe",
+  "sha256": "685435ad4d5a9cffa4b84e542285861e8db844893e67774d4535c0ce25e2be6b",
   "changelog": [
     "Дополнено отображение информации в терминале."
   ],
