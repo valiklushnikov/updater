@@ -1,0 +1,13 @@
+{
+  "version": "0.0.1",
+  "build": 1769377040,
+  "release_date": "2026-01-25T23:37:20.214742",
+  "download_url": "https://update.maneki.trading/api/updates/download/0.0.1",
+  "size": 40614912,
+  "sha256": "9962196e60e7f09d3ac9656fcb6b874246f22701e8b7ab345e1f84249f4c85ed",
+  "changelog": [
+    "Новая библиотека графического интерфейса"
+  ],
+  "required": false,
+  "min_version": "0.0.1"
+}

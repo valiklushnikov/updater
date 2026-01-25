@@ -1,12 +1,12 @@
 {
-  "version": "0.0.6",
-  "build": 1768904251,
-  "release_date": "2026-01-20T12:17:31.423925",
-  "download_url": "https://update.maneki.trading/api/updates/download/0.0.6",
-  "size": 31426402,
-  "sha256": "685435ad4d5a9cffa4b84e542285861e8db844893e67774d4535c0ce25e2be6b",
+  "version": "0.0.1",
+  "build": 1769377040,
+  "release_date": "2026-01-25T23:37:20.214742",
+  "download_url": "https://update.maneki.trading/api/updates/download/0.0.1",
+  "size": 40614912,
+  "sha256": "9962196e60e7f09d3ac9656fcb6b874246f22701e8b7ab345e1f84249f4c85ed",
   "changelog": [
-    "Дополнено отображение информации в терминале."
+    "Новая библиотека графического интерфейса"
   ],
   "required": false,
   "min_version": "0.0.1"
