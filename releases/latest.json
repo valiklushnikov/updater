@@ -1,10 +1,10 @@
 {
   "version": "0.0.1",
-  "build": 1769735720,
-  "release_date": "2026-01-30T03:15:20.664379",
+  "build": 1769764158,
+  "release_date": "2026-01-30T11:09:18.383270",
   "download_url": "https://update.maneki.trading/api/updates/download/0.0.1",
-  "size": 40645120,
-  "sha256": "1855a4970a430cefd19c99d47e895334ea05145f407ea2c5f8feaae8ceba4306",
+  "size": 40646656,
+  "sha256": "0292ef64882829bce4d74a64a4bc07e82c7ca5da3e73cd5384d24ed81d2861f9",
   "changelog": [
     "Новая библиотека графического интерфейса PySide6"
   ],
