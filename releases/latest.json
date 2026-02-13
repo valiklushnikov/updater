@@ -1,10 +1,10 @@
 {
   "version": "0.0.1",
-  "build": 1770944342,
-  "release_date": "2026-02-13T02:59:02.605708",
+  "build": 1770974669,
+  "release_date": "2026-02-13T11:24:29.624413",
   "download_url": "https://update.maneki.trading/api/updates/download/0.0.1",
-  "size": 37761536,
-  "sha256": "d73b98c9826b6b3550e65a152ec1338b8bb109cb1745e1a7e15458290ef75e12",
+  "size": 37774848,
+  "sha256": "624a8b5398ea281079b8a81918eedd05b8ddd5851994044673feb486f582a8e8",
   "changelog": [
     "Тестовая сборка"
   ],
