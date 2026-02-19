@@ -1,0 +1,13 @@
+{
+  "version": "0.0.4",
+  "build": 1771526265,
+  "release_date": "2026-02-19T20:37:45.957999",
+  "download_url": "https://update.maneki.trading/api/updates/download/0.0.4",
+  "size": 37851648,
+  "sha256": "d2a5748fbf31c4b17817a9e19ea743b118d242cddf541e069b6180f9eee34887",
+  "changelog": [
+    "Тестовая сборка MainNet"
+  ],
+  "required": false,
+  "min_version": "0.0.1"
+}
