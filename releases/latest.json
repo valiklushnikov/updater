@@ -1,12 +1,12 @@
 {
-  "version": "0.0.4",
-  "build": 1771578311,
-  "release_date": "2026-02-20T11:05:11.738939",
-  "download_url": "https://update.maneki.trading/api/updates/download/0.0.4",
-  "size": 37855232,
-  "sha256": "d15457ea47f163ff25da62129823106226914bb90348716098ccc12d629b5ba7",
+  "version": "0.0.5",
+  "build": 1771591931,
+  "release_date": "2026-02-20T14:52:11.709104",
+  "download_url": "https://update.maneki.trading/api/updates/download/0.0.5",
+  "size": 37855744,
+  "sha256": "f8356d197c772a0dce2c7280e458d434de08d721d998025f2bb94af55471012f",
   "changelog": [
-    "Тестовая сборка MainNet"
+    "Тестовая сборка TestNet"
   ],
   "required": false,
   "min_version": "0.0.1"
